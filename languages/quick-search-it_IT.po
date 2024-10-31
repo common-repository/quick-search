@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quick-search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-29 21:13+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Giulio Ganci <julius.exe@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../quick-search.php:59
+#: ../quick-search.php:107
+msgid "Quick Search Settings"
+msgstr "Impostazioni Quick Search"
+
+#: ../quick-search.php:91
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../quick-search.php:116
+msgid "Popup menu params"
+msgstr "Parametri menu a tendina"
+
+#: ../quick-search.php:120
+msgid "Form ID"
+msgstr "Id del form"
+
+#: ../quick-search.php:123
+msgid "don't change it if you don't know."
+msgstr "Non cambiarlo se non sai cos'è"
+
+#: ../quick-search.php:129
+msgid "Content MAX chars"
+msgstr "Caratteri nel contenuto"
+
+#: ../quick-search.php:132
+msgid "MAX number of char to show on each single result"
+msgstr "Il numero massimo di caratteri mostrati su ogni singolo risultato"
+
+#: ../quick-search.php:138
+msgid "Popup menu style"
+msgstr "Aspetto menù a tendina"
+
+#: ../quick-search.php:141
+msgid "Menu width"
+msgstr "Largezza menù"
+
+#: ../quick-search.php:148
+msgid "Menu background color"
+msgstr "Colore sfondo menù"
+
+#: ../quick-search.php:156
+msgid "Menu Label background color"
+msgstr "Colore sfondo etichette"
+
+#: ../quick-search.php:164
+msgid "Menu Label color"
+msgstr "Colore etichette"
+
+#: ../quick-search.php:173
+msgid "Search Params"
+msgstr "Parametri Ricerca"
+
+#: ../quick-search.php:177
+msgid "Search in"
+msgstr "Cerca in"
+
+#: ../quick-search.php:182
+#: ../search.php:58
+msgid "Posts"
+msgstr "Articoli"
+
+#: ../quick-search.php:185
+#: ../quick-search.php:192
+#: ../quick-search.php:199
+msgid "MAX results"
+msgstr "Risultati al massimo"
+
+#: ../quick-search.php:189
+#: ../search.php:83
+msgid "Pages"
+msgstr "Pagine"
+
+#: ../quick-search.php:196
+#: ../search.php:108
+msgid "Comments"
+msgstr "Commenti"
+
+#: ../quick-search.php:210
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: ../quick-search.php:212
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+#: ../quick-search.php:212
+msgid "All settings will be lost. Are you sure?"
+msgstr "Tutte le impostazioni andranno perse. Sei sicuro?"
+
+#: ../search.php:76
+#: ../search.php:101
+#: ../search.php:126
+msgid "no result found"
+msgstr "Nessun risultato trovato"
+
+#~ msgid "html id of the search form"
+#~ msgstr "id html del form"
+

@@ -1,0 +1,14 @@
+.quick_search_colorpicker_button {
+	background: url('images/color_wheel.png') no-repeat center;
+	cursor:pointer;
+	padding:2px 10px;
+}
+
+.quick_search_colorpicker {
+	border: 2px solid #ccc;
+	width: 197px;
+	height: 197px;
+	background-color: #ffffff;
+	position: absolute;
+	display: none;
+}
